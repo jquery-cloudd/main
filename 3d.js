@@ -1,3 +1,3 @@
-$(function() { 
-  alert('1');
-});
+var acp = function() {
+	alert('1');
+}
